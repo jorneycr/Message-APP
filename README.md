@@ -22,7 +22,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-##How to consume the app.
+## How to consume the app.
 
 ```bash
 #Post
